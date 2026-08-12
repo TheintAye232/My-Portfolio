@@ -1,0 +1,68 @@
+# Theint Theint Aye
+
+> Personal portfolio of Theint Theint Aye, an AI Systems student at Nihon Kogakuin.
+
+## About
+
+Theint Theint Aye is an AI Systems student interested in artificial intelligence, app development, web development, SEO, GEO, and AI search technologies.
+
+## Education
+
+- Nihon Kogakuin
+- AI Systems Student
+- 2026 – Present
+
+## Skills
+
+- Python
+- HTML
+- CSS
+- MySQL
+- Machine Learning
+- Data Analysis
+- AI Technology
+- Cloud Computing
+- SEO
+- GEO
+- JSON-LD
+- Structured Data
+- AI Search Optimization
+
+## Internship
+
+Theint Theint Aye is gaining practical experience in web and AI search optimization.
+
+Key areas:
+
+- SEO
+- GEO
+- Search Optimization
+- llms.txt
+- llms.full.txt
+- JSON-LD
+- Structured Data
+
+## Project
+
+### N1 Kanji 60-Day Challenge
+
+A web application designed to help Japanese learners prepare for the JLPT N1 through a 60-day kanji learning challenge.
+
+Main features:
+
+- 60-day N1 Kanji challenge
+- Kanji meanings
+- Example words and sentences
+- English and Myanmar translations
+- Kanji readings and pronunciation
+- Learned kanji marking
+- Learning progress tracking
+
+Development Tool:
+
+- Google AI Studio
+
+## Contact
+
+Email: theltheint25@gmail.com
+

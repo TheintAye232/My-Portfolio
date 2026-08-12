@@ -1,0 +1,164 @@
+# Theint Theint Aye - Full Portfolio Information
+
+## Identity
+
+Name:
+Theint Theint Aye
+
+Role:
+AI Systems Student
+
+Email:
+theltheint25@gmail.com
+
+
+## Professional Interests
+
+Theint Theint Aye is an AI Systems student interested in building useful applications by combining artificial intelligence, software development, and modern web technologies.
+
+Primary interests:
+
+- Artificial Intelligence
+- App Development
+- Web Development
+- Machine Learning
+- Data Analysis
+- SEO
+- GEO
+- AI Search
+- Structured Data
+
+
+## Education
+
+Institution:
+Nihon Kogakuin
+
+Program:
+AI Systems
+
+Status:
+Current Student
+
+Period:
+2026 – Present
+
+
+Previous Education:
+
+Japanese Language School
+
+Graduated:
+2026
+
+
+Japanese Language Level:
+
+Japanese — JLPT N2 (Passed in December 2024)
+
+## Technical Skills
+
+### Programming and Web Development
+
+Python:
+Fundamental knowledge of Python programming.
+
+HTML and CSS:
+Fundamental knowledge of website structure and styling.
+
+MySQL:
+Fundamental knowledge of relational databases and SQL.
+
+
+### AI and Data
+
+Machine Learning:
+Fundamental knowledge of machine learning concepts.
+
+Data Analysis:
+Fundamental knowledge of data analysis.
+
+AI Technology:
+Fundamental knowledge of artificial intelligence technologies.
+
+
+### Cloud
+
+Cloud Computing:
+Fundamental knowledge of cloud computing concepts.
+
+
+## Internship Experience
+
+Theint Theint Aye is gaining practical experience in web and AI search optimization through an internship.
+
+Main areas of experience:
+
+### SEO
+
+Search Engine Optimization and website optimization.
+
+### GEO
+
+Generative Engine Optimization and optimization for AI-powered search experiences.
+
+### Search Optimization
+
+Learning how websites and content can be structured and optimized for modern search systems.
+
+### llms.txt
+
+Working with llms.txt to provide structured information about website content for AI systems.
+
+### llms.full.txt
+
+Working with a more detailed version of website information intended to provide additional context for AI systems.
+
+### JSON-LD
+
+Learning and working with JSON-LD structured data to describe website entities and content in a machine-readable format.
+
+
+## Project
+
+### N1 Kanji 60-Day Challenge
+
+Type:
+Web Application
+
+Purpose:
+A learning application designed to help Japanese learners prepare for the JLPT N1 through a structured 60-day kanji learning challenge.
+
+Main Features:
+
+1. 60-day N1 Kanji challenge
+2. Kanji meanings
+3. Example words
+4. Example sentences
+5. English translations
+6. Myanmar translations
+7. Kanji readings
+8. Pronunciation information
+9. Marking learned kanji
+10. Learning progress tracking
+
+Development Tool:
+
+Google AI Studio
+
+
+## Career Goal
+
+Theint Theint Aye aims to become an engineer who can combine AI technology and application development to create useful applications that solve real-world problems.
+
+The long-term goal is to continue learning new technologies and develop applications that provide practical value to users.
+
+
+## Contact
+
+Email:
+theltheint25@gmail.com
+
+GitHub:
+https://github.com/TheintAye232
+
